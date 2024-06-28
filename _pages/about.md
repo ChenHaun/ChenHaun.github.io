@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ying Zhichen(Chen Huan not ChenHaun)'s personal page"
+title: "Chen Huan (not Chen Haun) 's personal page"
 author_profile: true
 redirect_from: 
   - /about/
